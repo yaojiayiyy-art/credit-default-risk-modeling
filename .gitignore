@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Course-provided source data is intentionally not published.
+data/raw/*
+!data/raw/.gitkeep

@@ -1,0 +1,22 @@
+{
+  "rows": 12000,
+  "columns": 10,
+  "source_columns": 7,
+  "date_start": "2020-01-01",
+  "date_end": "2025-09-30",
+  "duplicate_rows": 0,
+  "missing_required_values": 0,
+  "overall_default_rate": 0.24608333333333332,
+  "train_rows": 10403,
+  "test_rows": 1597,
+  "train_default_rate": 0.2633855618571566,
+  "test_default_rate": 0.13337507827175954,
+  "oot_cutoff": "2025-01-01",
+  "illustrative_economics": {
+    "performing_margin_rate": 0.12,
+    "loss_given_default": 0.7,
+    "best_threshold": 0.3,
+    "approval_rate": 0.7050720100187852,
+    "approved_default_rate": 0.10923623445825932
+  }
+}
